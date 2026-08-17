@@ -1,0 +1,14 @@
+# Optional but recommended:
+.vscode/
+.idea/
+*.pem
+*.key
+Thumbs.db
+node_modules/
+.env
+.env.local
+.env.*.local
+dist/
+uploads/
+*.log
+.DS_Store

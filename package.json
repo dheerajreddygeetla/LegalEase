@@ -1,0 +1,13 @@
+{
+  "name": "legalease-ai",
+  "version": "1.0.0",
+  "description": "Full-stack AI-powered legal and government-scheme assistant for Indian citizens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
