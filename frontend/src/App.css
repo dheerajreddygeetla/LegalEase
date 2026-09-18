@@ -1,0 +1,8 @@
+/* App.css — Global ambient background and premium base styles */
+
+/* Ambient page background with orbs */
+#root {
+  position: relative;
+}
+
+/* Remove Vite scaffold styles */
